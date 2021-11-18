@@ -1,0 +1,64 @@
+{   "audio":"audios/la_mascara_roja.mp3",
+    "modelo":"modelos/tp-final-tecno.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+          {
+               "tiempo":"00:00",
+               "duracion":0,
+               "camara":"camera0",
+               "target":"target0",
+               "nombre":"inicio"
+          },
+          {
+                "tiempo":"00:01",
+                "duracion":15000,
+                "camara":"camera1",
+                "target":"target1",
+                "nombre":"casita"
+           },
+           {
+               "tiempo":"00:16",
+               "duracion":25000,
+               "camara":"camera2",
+               "target":"target2",
+               "nombre":"fortaleza"
+          },
+          {
+               "tiempo":"00:41",
+               "duracion":10000,
+               "camara":"camera3",
+               "target":"target3",
+               "nombre":"la fiesta"
+          },
+          {
+               "tiempo":"00:51",
+               "duracion":24000,
+               "camara":"camera4",
+               "target":"target4",
+               "nombre":"sala verde"
+          },
+          {
+               "tiempo":"01:15",
+               "duracion":10000,
+               "camara":"camera5",
+               "target":"target5",
+               "nombre":"la sala roja"
+          },
+          {
+               "tiempo":"01:25",
+               "duracion":30000,
+               "camara":"camera6",
+               "target":"target6",
+               "nombre":"cuerpo"
+          }
+          ,
+          {
+               "tiempo":"01:55",
+               "duracion":5000,
+               "camara":"camera7",
+               "target":"target7",
+               "nombre":"reloj"
+          }
+      ]
+}
