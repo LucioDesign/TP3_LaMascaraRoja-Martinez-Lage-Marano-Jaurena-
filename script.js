@@ -11,7 +11,7 @@ var lista = {};
 var audio;
 function inicializar() {
   mundo = new Mundo();
-  mundo.iluminar();
+  // mundo.iluminar();
   mundo.crearOrbitControl();
   document.addEventListener("keypress", onDocumentKeyPress);
   fetch(nombre_guion)
